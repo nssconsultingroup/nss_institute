@@ -1,0 +1,21 @@
+{
+  "name": "nss_institute",
+  "version": "1.0.0",
+  "description": "an application which helps to provide online institution as a service on various categories",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "institution",
+    "nss",
+    "nssinstitution",
+    "nss_institution"
+  ],
+  "author": "shikhar srivastav, shivam gupta, nikunj shukla",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
